@@ -63,7 +63,7 @@ The `i_kernel_sel` input (3-bit) selects from 8 real-time image filters:
 |---|---|
 | `000` | Identity (Pass-through) |
 | `001` | Sobel Edge Detection |
-| `010` | Gaussian Blur |
+| `010` | Box Blur |
 | `011` | Negative |
 | `100` | Sharpen |
 | `101` | Emboss |
